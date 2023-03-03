@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://bubblewock.com/",
+    "env":{
+        "name": "Joe Blogs"
+    }
+}
